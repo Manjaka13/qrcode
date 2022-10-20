@@ -1,0 +1,15 @@
+{
+	"short_name": "QR Code",
+	"name": "QR Code generator",
+	"icons": [
+		{
+			"src": "/favicon.ico",
+			"sizes": "32x32",
+			"type": "image/ico"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#282828",
+	"background_color": "#282828"
+}
