@@ -30,7 +30,7 @@ export default {
 	},
 	data() {
 		return {
-			url: "Hari",
+			url: "https://harij.netlify.app",
 		};
 	},
 	methods: {},
